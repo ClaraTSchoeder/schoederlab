@@ -38,3 +38,8 @@ The ```pmpnn_complex.ipynb``` jupyter notebook provides an example on how to
 - select residues near a site that are surface exposed
 - scan each of the selected residues and calculate conditional probabilities
 - plot the probability for each position in a sequence logo
+
+### _HREX Simulation_
+
+The simulations were performed using the HREX protocol from Schwarten et. al. at https://link.springer.com/protocol/10.1007/978-1-4939-8873-0_2
+MPD files as well as topology files were added to reproduce the simulation. Trajectories can be accessed at zenodo-link
